@@ -1,8 +1,3 @@
-# r-car
-
-
-
-
 
 ## Getting started
 
