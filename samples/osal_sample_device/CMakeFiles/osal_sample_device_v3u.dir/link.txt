@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/osal_sample_device_v3u.dir/application/src/osal_sample_device_main.c.o -o ../../bin/osal_sample_device_v3u_d  -Wl,-rpath,/root/Renesas/rcar-xos/v2.17.0/sw/x86_64-gnu-linux/lib ../../../sw/x86_64-gnu-linux/lib/libosal_wrapper_v3u.so 
